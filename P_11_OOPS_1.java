@@ -67,7 +67,7 @@ public class P_11_OOPS_1 {
         john.printDetails();
 
 
-        square sq = new square();
+        square sq = new square(); // making sq object.
         sq.side = 2f;
         sq.area();
         sq.perimeter();
